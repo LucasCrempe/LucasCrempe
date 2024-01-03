@@ -11,7 +11,16 @@ computer science student at the Federal University of São Carlos
 
 ### Technologies and Tools i am currently learning:
 
-:c: :cplusplus: :javascript: :kotlin: :mysql: :nodejs: :react: :bootstrap: :postgresql:
+- C
+- C++
+- JavaScript
+- Kotlin
+- MySQL
+- Node.js
+- React
+- Bootstrap
+- PostgreSQL
+
 
 
 
