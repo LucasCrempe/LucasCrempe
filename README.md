@@ -11,15 +11,7 @@ computer science student at the Federal University of São Carlos
 
 ### Technologies and Tools i am currently learning:
 
-- C
-- C++
-- JavaScript
-- Kotlin
-- MySQL
-- Node.js
-- React
-- Bootstrap
-- PostgreSQL
+![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
 
 
 
