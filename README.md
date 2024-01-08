@@ -1,4 +1,4 @@
-### hello!
+### hi! I am Lucas!
 
 
 computer science student at the Federal University of São Carlos. 
