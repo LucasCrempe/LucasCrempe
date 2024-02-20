@@ -14,15 +14,17 @@ Currently studying in summer break!
 
 ### Skills:
 
-![Manual Testing](https://img.icons8.com/office/48/000000/testing.png) 
-![Automation Testing](https://img.icons8.com/office/48/000000/automatic.png) 
-![Selenium](https://img.icons8.com/ios-filled/50/000000/selenium-test-automation.png) 
-![Postman](https://img.icons8.com/color/48/000000/postman-api.png) 
-![Gherkin](https://img.icons8.com/office/48/000000/gherkin.png) 
-![Test Cases](https://img.icons8.com/color/48/000000/test-tube.png) 
-![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png) 
-![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) 
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![Manual Testing](https://img.icons8.com/plasticine/2x/testing.png)
+![Automation Testing](https://img.icons8.com/plasticine/2x/automatic.png)
+![Selenium](https://img.icons8.com/cotton/2x/selenium-test-automation.png)
+![Postman](https://img.icons8.com/cotton/2x/postman-api.png)
+![Gherkin](https://img.icons8.com/plasticine/2x/gherkin.png)
+![Test Cases](https://img.icons8.com/cotton/2x/test-tube.png)
+![Kotlin](https://img.icons8.com/cotton/2x/kotlin.png)
+![C#](https://img.icons8.com/cotton/2x/c-sharp-logo.png)
+![Java](https://img.icons8.com/cotton/2x/java-coffee-cup-logo.png)
+![SQL](https://img.icons8.com/cotton/2x/sql.png)
+
 
 
 
