@@ -14,7 +14,8 @@ Currently studying in summer break!
 
 ### Skills:
 
-![Manual Testing]()
+![Manual Testing](![icons8-testing-64](https://github.com/LucasCrempe/LucasCrempe/assets/145240361/e6aa4c2d-d2f4-44a9-9f97-dce8dc7f7057)
+)
 ![Automation Testing]()
 ![Selenium]()
 ![Postman]()
@@ -24,6 +25,8 @@ Currently studying in summer break!
 ![C#]()
 ![Java]()
 ![SQL]() 
+
+
 
 
 
