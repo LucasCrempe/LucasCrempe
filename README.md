@@ -14,7 +14,7 @@ Currently studying in summer break!
 
 ### Skills:
 
-![Manual Testing](https://icons8.com/icon/d5wFpGKGdUzh/testing)
+![Manual Testing](https://img.icons8.com/?size=80&id=d5wFpGKGdUzh&format=png)
 ![Automation Testing]()
 ![Selenium]()
 ![Postman]()
