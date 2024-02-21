@@ -14,16 +14,17 @@ Currently studying in summer break!
 
 ### Skills:
 
-![Manual Testing](https://img.icons8.com/plasticine/2x/testing.png)
-![Automation Testing](https://img.icons8.com/plasticine/2x/automatic.png)
-![Selenium](https://img.icons8.com/cotton/2x/selenium-test-automation.png)
-![Postman](https://img.icons8.com/cotton/2x/postman-api.png)
-![Gherkin](https://img.icons8.com/plasticine/2x/gherkin.png)
-![Test Cases](https://img.icons8.com/cotton/2x/test-tube.png)
-![Kotlin](https://img.icons8.com/cotton/2x/kotlin.png)
-![C#](https://img.icons8.com/cotton/2x/c-sharp-logo.png)
-![Java](https://img.icons8.com/cotton/2x/java-coffee-cup-logo.png)
-![SQL](https://img.icons8.com/cotton/2x/sql.png)
+![Manual Testing]()
+![Automation Testing]()
+![Selenium]()
+![Postman]()
+![Gherkin]()
+![Test Cases]()
+![Kotlin]()
+![C#]()
+![Java]()
+![SQL]() 
+
 
 
 
