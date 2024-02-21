@@ -27,7 +27,7 @@ and learn in a dynamic work environment.
 ![C#](https://img.icons8.com/?size=48&id=55251&format=png)
 ![Java](https://img.icons8.com/?size=64&id=FRRACRKRsw2s&format=png)
 ![SQL](https://img.icons8.com/?size=80&id=4ZM6CrdtsQVN&format=png) 
-![CyberSecurity](https://img.icons8.com/?size=80&id=64203&format=png)
+![CyberSecurity](https://img.icons8.com/?size=50&id=YqMviGkCsvoB&format=png)
 
 
 
