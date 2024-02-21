@@ -1,9 +1,13 @@
 ### hi! I am Lucas!
 
+Computer Science student actively seeking Junior or Intern
+opportunities in QA Engineering, Tester, or QA Analyst
+roles. Equipped with theoretical knowledge and practical
+skills in software testing methodologies. Eager to contribute
+and learn in a dynamic work environment.
 
-computer science student at the Federal University of São Carlos. 
 
-Currently studying in summer break!
+
 
 
 ### Contact me:
