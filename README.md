@@ -14,16 +14,16 @@ Currently studying in summer break!
 
 ### Skills:
 
+![QA](https://img.icons8.com/?size=80&id=bltoLactaWyM&format=png)
 ![Manual Testing](https://img.icons8.com/?size=80&id=d5wFpGKGdUzh&format=png)
-![Automation Testing]()
-![Selenium]()
-![Postman]()
-![Gherkin]()
-![Test Cases]()
-![Kotlin]()
-![C#]()
-![Java]()
-![SQL]() 
+![Automation Testing](https://img.icons8.com/?size=64&id=43657&format=png)
+![Postman](https://img.icons8.com/?size=64&id=QEQQKirln6Tf&format=png)
+![Selenium](https://img.icons8.com/?size=60&id=VOnRj9vGpXV8&format=png)
+![Kotlin](https://img.icons8.com/?size=64&id=QF5zpaaq4QZf&format=png)
+![C#](https://img.icons8.com/?size=48&id=55251&format=png)
+![Java](https://img.icons8.com/?size=64&id=FRRACRKRsw2s&format=png)
+![SQL](https://img.icons8.com/?size=80&id=4ZM6CrdtsQVN&format=png) 
+![CyberSecurity](https://img.icons8.com/?size=80&id=64203&format=png)
 
 
 
