@@ -21,7 +21,7 @@ and learn in a dynamic work environment.
 ![QA](https://img.icons8.com/?size=80&id=bltoLactaWyM&format=png)
 ![Manual Testing](https://img.icons8.com/?size=80&id=d5wFpGKGdUzh&format=png)
 ![Automation Testing](https://img.icons8.com/?size=64&id=43657&format=png)
-![Postman](https://img.icons8.com/?size=64&id=QEQQKirln6Tf&format=png)
+![Postman](https://img.shields.io/badge/Postman-F6BB43?style=flat-square&logo=Postman&logoColor=white)
 ![Selenium](https://img.icons8.com/?size=60&id=VOnRj9vGpXV8&format=png)
 ![Kotlin](https://img.icons8.com/?size=64&id=QF5zpaaq4QZf&format=png)
 ![C#](https://img.icons8.com/?size=48&id=55251&format=png)
